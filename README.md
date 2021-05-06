@@ -1,2 +1,1 @@
-# Ethic
-Eh
+# Instagram Clone
